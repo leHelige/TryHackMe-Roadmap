@@ -175,7 +175,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 ## Intro Rooms
 
 
-- [ ] [🕵️ TryHackMe | Hosted Hypervisors](https://tryhackme.com/room/hostedhypervisors)
+- [x] [🕵️ TryHackMe | Hosted Hypervisors](https://tryhackme.com/room/hostedhypervisors)
   
 - [x] [🕵️ TryHackMe | Enumeration & Brute Force](https://tryhackme.com/room/enumerationbruteforce)
   
@@ -185,7 +185,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
   
-- [x] [🕵️ TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
+- [ ] [🕵️ TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
   
 - [ ] [🕵️ TryHackMe | Preparation](https://tryhackme.com/room/preparation)
 
@@ -193,27 +193,27 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
 
-- [x] [🕵️ TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
+- [ ] [🕵️ TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
   
 - [ ] [🕵️ TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
 
-- [x] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
+- [ ] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
-- [ ] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
+- [x] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
-- [ ] [🕵️ TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
+- [x] [🕵️ TryHackMe | How to use TryHackMe](https://tryhackme.com/room/howtousetryhackme)
 
 - [x] [🕵️ TryHackMe | Tutorial](https://tryhackme.com/room/tutorial)
 
 - [x] [🕵️ TryHackMe | OpenVPN](https://tryhackme.com/room/openvpn)
 
-- [x] [🕵️ TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
+- [ ] [🕵️ TryHackMe | Learning Cyber Security](https://tryhackme.com/room/beginnerpathintro)
 
-- [x] [🕵️ TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
+- [ ] [🕵️ TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
 - [ ] [🕵️ TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
 
-- [ ] [🕵️ TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
+- [x] [🕵️ TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
 
 - [x] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
 
