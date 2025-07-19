@@ -187,7 +187,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [x] [🕵️ TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
   
-- [ ] [🕵️ TryHackMe | Preparation](https://tryhackme.com/room/preparation)
+- [x] [🕵️ TryHackMe | Preparation](https://tryhackme.com/room/preparation)
 
 - [ ] [🕵️ TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs)
 
@@ -252,7 +252,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [ ] [🕵️ TryHackMe | Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc)
 
-- [ ] [🕵️ TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
+- [x] [🕵️ TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 - [x] [🕵️ TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
 
