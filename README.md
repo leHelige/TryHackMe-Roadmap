@@ -246,7 +246,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [ ] [🕵️ TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
 
-- [ ] [🕵️ TryHackMe | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)
+- [x] [🕵️ TryHackMe | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)
 
 - [ ] [🕵️ TryHackMe | x86 Architecture Overview](https://tryhackme.com/room/x8664arch)
 
