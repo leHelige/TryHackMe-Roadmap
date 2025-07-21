@@ -242,21 +242,19 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## Basics Rooms
 
-- [ ] [🕵️ TryHackMe | Hypervisor Internals](https://tryhackme.com/room/hypervisorinternals)
+- [x] [🕵️ TryHackMe | Hypervisor Internals](https://tryhackme.com/room/hypervisorinternals)
   
 - [ ] [🕵️ TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
 
 - [x] [🕵️ TryHackMe | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)
 
-- [ ] [🕵️ TryHackMe | x86 Architecture Overview](https://tryhackme.com/room/x8664arch)
+- [x] [🕵️ TryHackMe | x86 Architecture Overview](https://tryhackme.com/room/x8664arch)
 
-- [ ] [🕵️ TryHackMe | Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc)
+- [x] [🕵️ TryHackMe | Threat Intelligence for SOC](https://tryhackme.com/room/threatintelligenceforsoc)
 
 - [x] [🕵️ TryHackMe | Basic Pentesting](https://tryhackme.com/room/basicpentestingjt)
 
 - [x] [🕵️ TryHackMe | Pentesting Fundamentals](https://tryhackme.com/room/pentestingfundamentals)
-
-- [ ] [🕵️ TryHackMe | Principles of Security](https://tryhackme.com/room/principlesofsecurity)
 
 - [ ] [🕵️ TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
