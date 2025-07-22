@@ -183,21 +183,9 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
   
 - [x] [🕵️ TryHackMe | Linux File System Analysis](https://tryhackme.com/room/linuxfilesystemanalysis)
   
-- [ ] [🕵️ TryHackMe | Threat Hunting: Foothold](https://tryhackme.com/room/threathuntingfoothold)
-  
 - [x] [🕵️ TryHackMe | Threat Hunting: Introduction](https://tryhackme.com/room/introductiontothreathunting)
   
 - [x] [🕵️ TryHackMe | Preparation](https://tryhackme.com/room/preparation)
-
-- [ ] [🕵️ TryHackMe | Intro to Logs](https://tryhackme.com/room/introtologs)
-
-- [ ] [🕵️ TryHackMe | Intro to Threat Emulation](https://tryhackme.com/room/threatemulationintro)
-
-- [ ] [🕵️ TryHackMe | Security Engineer Intro](https://tryhackme.com/room/securityengineerintro)
-  
-- [ ] [🕵️ TryHackMe | Intro to Docker](https://tryhackme.com/room/introtodockerk8pdqk)
-
-- [ ] [🕵️ TryHackMe | SDLC](https://tryhackme.com/room/sdlc)
 
 - [x] [🕵️ TryHackMe | Welcome](https://tryhackme.com/room/hello)
 
@@ -211,16 +199,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [x] [🕵️ TryHackMe | Starting Out In Cyber Sec](https://tryhackme.com/room/startingoutincybersec)
 
-- [ ] [🕵️ TryHackMe | Introductory Researching](https://tryhackme.com/room/introtoresearch)
-
-- [ ] [🕵️ TryHackMe | Regular expressions](https://tryhackme.com/room/catregex)
-
 - [x] [🕵️ TryHackMe | Careers in Cyber](https://tryhackme.com/room/careersincyber)
-
-- [ ] [🕵️ TryHackMe | Junior Security Analyst Intro](https://tryhackme.com/room/jrsecanalystintrouxo)
-
-
-
 
 ## Linux Fundamentals
 
@@ -243,8 +222,6 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 ## Basics Rooms
 
 - [x] [🕵️ TryHackMe | Hypervisor Internals](https://tryhackme.com/room/hypervisorinternals)
-  
-- [ ] [🕵️ TryHackMe | Splunk: Exploring SPL](https://tryhackme.com/room/splunkexploringspl)
 
 - [x] [🕵️ TryHackMe | ParrotPost: Phishing Analysis](https://tryhackme.com/room/parrotpost)
 
@@ -258,13 +235,9 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [x] [🕵️ TryHackMe | The Hacker Methodology](https://tryhackme.com/room/hackermethodology)
 
-- [ ] [🕵️ TryHackMe | Physical Security Intro](https://tryhackme.com/room/physicalsecurityintro)
-
 - [x] [🕵️ TryHackMe | Linux Strength Training](https://tryhackme.com/room/linuxstrengthtraining)
 
-- [ ] [🕵️ TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
-
-- [ ] [🕵️ TryHackMe | ISO27001](https://tryhackme.com/room/iso27001)
+- [x] [🕵️ TryHackMe | OpenVAS](https://tryhackme.com/room/openvas)
 
 - [ ] [🕵️ TryHackMe | UltraTech](https://tryhackme.com/room/ultratech1)
 
