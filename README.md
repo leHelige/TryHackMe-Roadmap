@@ -243,11 +243,9 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 ## Recon
 
-- [ ] [🕵️ TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
+- [x] [🕵️ TryHackMe | Passive Reconnaissance](https://tryhackme.com/room/passiverecon)
 
-- [ ] [🕵️ TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
-
-- [ ] [🕵️ TryHackMe | Content Discovery](https://tryhackme.com/room/contentdiscovery)
+- [x] [🕵️ TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
 - [ ] [🕵️ TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
