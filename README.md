@@ -247,11 +247,11 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [x] [🕵️ TryHackMe | Active Reconnaissance](https://tryhackme.com/room/activerecon)
 
-- [ ] [🕵️ TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
+- [x] [🕵️ TryHackMe | OhSINT](https://tryhackme.com/room/ohsint)
 
 - [ ] [🕵️ TryHackMe | Shodan.io](https://tryhackme.com/room/shodan)
 
-- [ ] [🕵️ TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
+- [x] [🕵️ TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
 - [ ] [🕵️ TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
 
