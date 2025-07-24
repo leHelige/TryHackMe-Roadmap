@@ -253,11 +253,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [x] [🕵️ TryHackMe | Google Dorking](https://tryhackme.com/room/googledorking)
 
-- [ ] [🕵️ TryHackMe | WebOSINT](https://tryhackme.com/room/webosint)
-
-- [ ] [🕵️ TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
-
-- [ ] [🕵️ TryHackMe | Red Team Recon](https://tryhackme.com/room/redteamrecon)
+- [x] [🕵️ TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 
 - [ ] [🕵️ TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
