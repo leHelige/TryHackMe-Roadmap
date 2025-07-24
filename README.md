@@ -255,7 +255,7 @@ So, what are you waiting for? Let’s grow this collection together, one lab at 
 
 - [x] [🕵️ TryHackMe | Sakura Room](https://tryhackme.com/room/sakura)
 
-- [ ] [🕵️ TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
+- [x] [🕵️ TryHackMe | Searchlight - IMINT](https://tryhackme.com/room/searchlightosint)
 
 ## Scripting
 
